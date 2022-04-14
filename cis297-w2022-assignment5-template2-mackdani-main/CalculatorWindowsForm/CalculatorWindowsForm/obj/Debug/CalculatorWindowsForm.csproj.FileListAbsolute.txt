@@ -1,0 +1,11 @@
+C:\Users\MackD\source\repos\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.csproj.AssemblyReference.cache
+C:\Users\MackD\source\repos\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.csproj.SuggestedBindingRedirects.cache
+C:\Users\MackD\source\repos\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.CalculatorForm1.resources
+C:\Users\MackD\source\repos\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.Properties.Resources.resources
+C:\Users\MackD\source\repos\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.csproj.GenerateResource.cache
+C:\Users\MackD\source\repos\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\MackD\source\repos\CalculatorWindowsForm\CalculatorWindowsForm\bin\Debug\CalculatorWindowsForm.exe.config
+C:\Users\MackD\source\repos\CalculatorWindowsForm\CalculatorWindowsForm\bin\Debug\CalculatorWindowsForm.exe
+C:\Users\MackD\source\repos\CalculatorWindowsForm\CalculatorWindowsForm\bin\Debug\CalculatorWindowsForm.pdb
+C:\Users\MackD\source\repos\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.exe
+C:\Users\MackD\source\repos\CalculatorWindowsForm\CalculatorWindowsForm\obj\Debug\CalculatorWindowsForm.pdb
